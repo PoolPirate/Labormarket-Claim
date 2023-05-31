@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "labormarket_claim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "claim.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.4.0"
+  }
+}
